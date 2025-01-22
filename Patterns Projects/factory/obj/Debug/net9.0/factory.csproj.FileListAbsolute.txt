@@ -1,0 +1,14 @@
+C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.exe
+C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.deps.json
+C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.runtimeconfig.json
+C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.dll
+C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.pdb
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.AssemblyInfo.cs
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.dll
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\refint\factory.dll
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.pdb
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.genruntimeconfig.cache
+C:\Users\adina\Desktop\factory\obj\Debug\net9.0\ref\factory.dll

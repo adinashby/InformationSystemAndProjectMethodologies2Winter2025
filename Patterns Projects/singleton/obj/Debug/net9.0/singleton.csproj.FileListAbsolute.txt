@@ -1,0 +1,14 @@
+C:\Users\adina\Desktop\singleton\bin\Debug\net9.0\singleton.exe
+C:\Users\adina\Desktop\singleton\bin\Debug\net9.0\singleton.deps.json
+C:\Users\adina\Desktop\singleton\bin\Debug\net9.0\singleton.runtimeconfig.json
+C:\Users\adina\Desktop\singleton\bin\Debug\net9.0\singleton.dll
+C:\Users\adina\Desktop\singleton\bin\Debug\net9.0\singleton.pdb
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\singleton.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\singleton.AssemblyInfo.cs
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\singleton.dll
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\refint\singleton.dll
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\singleton.pdb
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\singleton.genruntimeconfig.cache
+C:\Users\adina\Desktop\singleton\obj\Debug\net9.0\ref\singleton.dll
