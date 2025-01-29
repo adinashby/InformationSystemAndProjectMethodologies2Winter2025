@@ -3,13 +3,13 @@
 ## **Table of Contents**
 
 1. [Decorator](#decorator)
-  - [Decorator Example](#decorator-example)
-  - [When to Use Decorator Pattern](#when-to-use-decorator-pattern)
+   - [Decorator Example](#decorator-example)
+   - [When to Use Decorator Pattern](#when-to-use-decorator-pattern)
 2. [Observer Pattern](#observer-pattern)
-  - [Observer Example in C#](#observer-example-in-c)
+   - [Observer Example in C#](#observer-example-in-c)
 3. [Model-View-Controller (MVC) Pattern](#model-view-controller-mvc-pattern)
-  - [MVC Example in C#](#mvc-example-in-c#)
-  - [Advantages of MVC Architecture](#advantages-of-mvc-architecture)
+   - [MVC Example in C#](#mvc-example-in-c#)
+   - [Advantages of MVC Architecture](#advantages-of-mvc-architecture)
 
 ---
 
