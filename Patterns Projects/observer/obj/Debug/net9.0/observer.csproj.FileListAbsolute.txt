@@ -1,0 +1,14 @@
+C:\Users\adina\Desktop\observer\bin\Debug\net9.0\observer.exe
+C:\Users\adina\Desktop\observer\bin\Debug\net9.0\observer.deps.json
+C:\Users\adina\Desktop\observer\bin\Debug\net9.0\observer.runtimeconfig.json
+C:\Users\adina\Desktop\observer\bin\Debug\net9.0\observer.dll
+C:\Users\adina\Desktop\observer\bin\Debug\net9.0\observer.pdb
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\observer.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\observer.AssemblyInfo.cs
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\observer.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\observer.dll
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\refint\observer.dll
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\observer.pdb
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\observer.genruntimeconfig.cache
+C:\Users\adina\Desktop\observer\obj\Debug\net9.0\ref\observer.dll

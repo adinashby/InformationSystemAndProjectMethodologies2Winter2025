@@ -1,0 +1,14 @@
+C:\Users\adina\Desktop\decorator\bin\Debug\net9.0\decorator.exe
+C:\Users\adina\Desktop\decorator\bin\Debug\net9.0\decorator.deps.json
+C:\Users\adina\Desktop\decorator\bin\Debug\net9.0\decorator.runtimeconfig.json
+C:\Users\adina\Desktop\decorator\bin\Debug\net9.0\decorator.dll
+C:\Users\adina\Desktop\decorator\bin\Debug\net9.0\decorator.pdb
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\decorator.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\decorator.AssemblyInfo.cs
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\decorator.dll
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\refint\decorator.dll
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\decorator.pdb
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\decorator.genruntimeconfig.cache
+C:\Users\adina\Desktop\decorator\obj\Debug\net9.0\ref\decorator.dll
