@@ -1,14 +1,29 @@
-C:\Users\adina\Desktop\adapter\bin\Debug\net9.0\adapter.exe
-C:\Users\adina\Desktop\adapter\bin\Debug\net9.0\adapter.deps.json
-C:\Users\adina\Desktop\adapter\bin\Debug\net9.0\adapter.runtimeconfig.json
-C:\Users\adina\Desktop\adapter\bin\Debug\net9.0\adapter.dll
-C:\Users\adina\Desktop\adapter\bin\Debug\net9.0\adapter.pdb
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\adapter.AssemblyInfoInputs.cache
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\adapter.AssemblyInfo.cs
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\adapter.csproj.CoreCompileInputs.cache
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\adapter.dll
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\refint\adapter.dll
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\adapter.pdb
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\adapter.genruntimeconfig.cache
-C:\Users\adina\Desktop\adapter\obj\Debug\net9.0\ref\adapter.dll
+C:/Users/adina/Desktop/adapter/bin/Debug/net9.0/adapter.exe
+C:/Users/adina/Desktop/adapter/bin/Debug/net9.0/adapter.deps.json
+C:/Users/adina/Desktop/adapter/bin/Debug/net9.0/adapter.runtimeconfig.json
+C:/Users/adina/Desktop/adapter/bin/Debug/net9.0/adapter.dll
+C:/Users/adina/Desktop/adapter/bin/Debug/net9.0/adapter.pdb
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/adapter.AssemblyInfoInputs.cache
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/adapter.AssemblyInfo.cs
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/adapter.csproj.CoreCompileInputs.cache
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/adapter.dll
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/refint/adapter.dll
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/adapter.pdb
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/adapter.genruntimeconfig.cache
+C:/Users/adina/Desktop/adapter/obj/Debug/net9.0/ref/adapter.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/bin/Debug/net9.0/adapter
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/bin/Debug/net9.0/adapter.deps.json
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/bin/Debug/net9.0/adapter.runtimeconfig.json
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/bin/Debug/net9.0/adapter.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/bin/Debug/net9.0/adapter.pdb
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.AssemblyInfoInputs.cache
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.AssemblyInfo.cs
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.csproj.CoreCompileInputs.cache
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.sourcelink.json
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/refint/adapter.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.pdb
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/adapter.genruntimeconfig.cache
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/Debug/net9.0/ref/adapter.dll

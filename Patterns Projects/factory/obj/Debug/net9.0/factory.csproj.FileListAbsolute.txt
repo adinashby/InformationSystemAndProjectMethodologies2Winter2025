@@ -1,14 +1,29 @@
-C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.exe
-C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.deps.json
-C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.runtimeconfig.json
-C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.dll
-C:\Users\adina\Desktop\factory\bin\Debug\net9.0\factory.pdb
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.AssemblyInfoInputs.cache
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.AssemblyInfo.cs
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.csproj.CoreCompileInputs.cache
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.dll
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\refint\factory.dll
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.pdb
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\factory.genruntimeconfig.cache
-C:\Users\adina\Desktop\factory\obj\Debug\net9.0\ref\factory.dll
+C:/Users/adina/Desktop/factory/bin/Debug/net9.0/factory.exe
+C:/Users/adina/Desktop/factory/bin/Debug/net9.0/factory.deps.json
+C:/Users/adina/Desktop/factory/bin/Debug/net9.0/factory.runtimeconfig.json
+C:/Users/adina/Desktop/factory/bin/Debug/net9.0/factory.dll
+C:/Users/adina/Desktop/factory/bin/Debug/net9.0/factory.pdb
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/factory.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/factory.AssemblyInfoInputs.cache
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/factory.AssemblyInfo.cs
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/factory.csproj.CoreCompileInputs.cache
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/factory.dll
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/refint/factory.dll
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/factory.pdb
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/factory.genruntimeconfig.cache
+C:/Users/adina/Desktop/factory/obj/Debug/net9.0/ref/factory.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/bin/Debug/net9.0/factory
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/bin/Debug/net9.0/factory.deps.json
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/bin/Debug/net9.0/factory.runtimeconfig.json
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/bin/Debug/net9.0/factory.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/bin/Debug/net9.0/factory.pdb
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.AssemblyInfoInputs.cache
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.AssemblyInfo.cs
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.csproj.CoreCompileInputs.cache
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.sourcelink.json
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/refint/factory.dll
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.pdb
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/factory.genruntimeconfig.cache
+/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/factory/obj/Debug/net9.0/ref/factory.dll
