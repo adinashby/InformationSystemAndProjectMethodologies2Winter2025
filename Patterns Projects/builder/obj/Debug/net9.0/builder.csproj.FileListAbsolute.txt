@@ -1,0 +1,15 @@
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\bin\Debug\net9.0\builder.exe
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\bin\Debug\net9.0\builder.deps.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\bin\Debug\net9.0\builder.runtimeconfig.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\bin\Debug\net9.0\builder.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\bin\Debug\net9.0\builder.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.AssemblyInfo.cs
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.sourcelink.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\refint\builder.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\builder.genruntimeconfig.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\builder\obj\Debug\net9.0\ref\builder.dll
