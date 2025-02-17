@@ -1,0 +1,15 @@
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\bin\Debug\net9.0\mediator.exe
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\bin\Debug\net9.0\mediator.deps.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\bin\Debug\net9.0\mediator.runtimeconfig.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\bin\Debug\net9.0\mediator.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\bin\Debug\net9.0\mediator.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.AssemblyInfo.cs
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.sourcelink.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\refint\mediator.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\mediator.genruntimeconfig.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\mediator\obj\Debug\net9.0\ref\mediator.dll

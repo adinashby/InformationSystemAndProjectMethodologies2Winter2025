@@ -1,0 +1,15 @@
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\bin\Debug\net9.0\visitor.exe
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\bin\Debug\net9.0\visitor.deps.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\bin\Debug\net9.0\visitor.runtimeconfig.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\bin\Debug\net9.0\visitor.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\bin\Debug\net9.0\visitor.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.AssemblyInfo.cs
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.sourcelink.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\refint\visitor.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\visitor.genruntimeconfig.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\visitor\obj\Debug\net9.0\ref\visitor.dll
