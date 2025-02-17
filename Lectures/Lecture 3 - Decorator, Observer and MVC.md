@@ -2,7 +2,7 @@
 
 ## **Table of Contents**
 
-1. [Decorator](#decorator)
+1. [Decorator Pattern](#decorator-pattern)
    - [Decorator Example](#decorator-example)
    - [When to Use Decorator Pattern](#when-to-use-decorator-pattern)
 2. [Observer Pattern](#observer-pattern)
@@ -13,7 +13,7 @@
 
 ---
 
-## **Decorator**
+## **Decorator Pattern**
 
 The **Decorator** pattern allows you to add new responsibilities to an object dynamically without altering its structure. It is a structural pattern that uses composition over inheritance, which provides flexibility in adding functionalities to objects at runtime. This pattern is ideal for adding additional features or behaviors without the overhead of subclassing repeatedly.
 
