@@ -21,6 +21,8 @@ The **Decorator** pattern allows you to add new responsibilities to an object dy
 
 In this example, we will model a **ChristmasTree** that can be decorated with various items like garlands, bubble lights, and a tree topper. Instead of subclassing the **ChristmasTree** each time a new decoration is added, we’ll use decorators to enhance the tree dynamically.
 
+![](../Imgs/decorator_uml.jpg)
+
 ### **C# Implementation**
 
 1. **ChristmasTree Interface**

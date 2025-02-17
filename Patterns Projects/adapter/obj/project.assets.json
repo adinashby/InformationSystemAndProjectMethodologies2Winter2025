@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\adina\\.nuget\\packages\\": {}
+    "/Users/adinashby/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adina\\Desktop\\adapter\\adapter.csproj",
+      "projectUniqueName": "/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/adapter.csproj",
       "projectName": "adapter",
-      "projectPath": "C:\\Users\\adina\\Desktop\\adapter\\adapter.csproj",
-      "packagesPath": "C:\\Users\\adina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adina\\Desktop\\adapter\\obj\\",
+      "projectPath": "/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/adapter.csproj",
+      "packagesPath": "/Users/adinashby/.nuget/packages/",
+      "outputPath": "/Users/adinashby/Desktop/InformationSystemAndProjectMethodologies2Winter2025/Patterns Projects/adapter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\adina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/adinashby/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
