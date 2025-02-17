@@ -1,0 +1,15 @@
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\bin\Debug\net9.0\facade.exe
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\bin\Debug\net9.0\facade.deps.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\bin\Debug\net9.0\facade.runtimeconfig.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\bin\Debug\net9.0\facade.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\bin\Debug\net9.0\facade.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.AssemblyInfo.cs
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.sourcelink.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\refint\facade.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\facade.genruntimeconfig.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\facade\obj\Debug\net9.0\ref\facade.dll

@@ -1,0 +1,15 @@
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\bin\Debug\net9.0\prototype.exe
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\bin\Debug\net9.0\prototype.deps.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\bin\Debug\net9.0\prototype.runtimeconfig.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\bin\Debug\net9.0\prototype.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\bin\Debug\net9.0\prototype.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.AssemblyInfo.cs
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.sourcelink.json
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\refint\prototype.dll
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.pdb
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\prototype.genruntimeconfig.cache
+C:\Users\adina\Desktop\Active Courses\InformationSystemAndProjectMethodologies2Winter2025\Patterns Projects\prototype\obj\Debug\net9.0\ref\prototype.dll
